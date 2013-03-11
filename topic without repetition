@@ -1,0 +1,476 @@
+corrected tweet :  good luck team imeaurmain releasing today catch theater
+status :  307316494302334976
+time :  2013-03-01 02:28:56
+No of retweets :  72
+No of favorites :  51
+tweet+reply corpus: 
+"good luck team imeaurmain releasing today catch theater","shot tips wont eye s",
+No of replies :  2
+last reply time :  7
+proper nouns :  Set([u'catch', u'good', u'releasing', u'imeaurmain'])
+LSI topic:
+['2013-03-01 14:32:31,812 : INFO : topic #0(1.000): 0.316*"wont" + 0.316*"tips" + 0.316*"s"" + 0.316*"eye" + 0.316*""shot" + -0.250*"today" + -0.250*"imeaurmain" + -0.250*"catch" + -0.250*"theater"" + -0.250*"team"\n']
+LDA topic:
+['2013-03-01 14:32:31,868 : INFO : topic #0: 0.080*wont + 0.080*tips + 0.080*s" + 0.080*eye + 0.080*"shot + 0.075*today + 0.075*theater" + 0.075*team + 0.075*releasing + 0.075*luck\n']
+corrected tweet :  blown super stylish entry pcspinups contest can decide pick voice choice
+status :  307105225473396738
+time :  2013-02-28 12:29:26
+No of retweets :  86
+No of favorites :  80
+tweet+reply corpus: 
+"blown super stylish entry pcspinups contest caneurotradet decide pick voice choice","time pleas","you how what","you pick best","time pc","stylish","can was meet of","feel stylish end chosen","year","time","cut meet of sigh wonder ill meet","time","dung worry all meet sure","time","maniac met bad","aww ve star mania met or luck","sad met","figure gain time in","was feel magic love beauty voice awesom hugag","cry",
+No of replies :  20
+last reply time :  21
+proper nouns :  Set([u'hugag', u'magic', u'blown', u'aww', u'sigh', u'pcspinups', u'maniac', u'pc', u'ill', u'wonder'])
+LSI topic:
+['2013-03-01 14:32:43,452 : INFO : topic #0(1.732): 1.000*""time"" + 0.000*"caneurotradet" + 0.000*"met"" + 0.000*""sad" + 0.000*""blown" + 0.000*"met" + 0.000*"bad"" + 0.000*""maniac" + -0.000*"best"" + -0.000*""cry""\n']
+LDA topic:
+['2013-03-01 14:32:43,473 : INFO : topic #0: 0.045*"time" + 0.025*"time + 0.024*"you + 0.023*meet + 0.023*"cry" + 0.023*"stylish" + 0.023*"year" + 0.020*met + 0.020*pleas" + 0.020*pc"\n']
+corrected tweet :  summer gun count
+status :  307104121759072259
+time :  2013-02-28 12:25:03
+No of retweets :  94
+No of favorites :  86
+tweet+reply corpus: 
+"summer gun count","absolute org","go hot",
+No of replies :  3
+last reply time :  21
+proper nouns :  Set([u'hot'])
+LSI topic:
+['2013-03-01 14:32:48,919 : INFO : topic #0(1.000): -0.462*"org"" + -0.462*""absolute" + -0.408*""summer" + -0.408*"gun" + -0.408*"count"" + -0.190*""go" + -0.190*"hot""\n']
+LDA topic:
+['2013-03-01 14:32:48,928 : INFO : topic #0: 0.148*hot" + 0.148*"go + 0.148*org" + 0.148*"absolute + 0.136*gun + 0.136*count" + 0.136*"summer\n']
+corrected tweet :  nanu
+status :  306650768436518913
+time :  2013-02-27 06:23:35
+No of retweets :  20
+No of favorites :  39
+tweet+reply corpus: 
+"nervous exit forward imeaurmain st march","nanu","hope fun xx","love close father cut",
+No of replies :  4
+last reply time :  0
+proper nouns :  Set([u'nanu', u'imeaurmain'])
+LSI topic:
+['2013-03-01 14:32:54,969 : INFO : topic #0(1.000): 0.380*"imeaurmain" + 0.380*""nervous" + 0.380*"st" + 0.380*"march"" + 0.380*"forward" + 0.380*"exit" + -0.177*"cut"" + -0.177*"father" + -0.177*"close" + -0.177*""love"\n']
+LDA topic:
+['2013-03-01 14:32:54,980 : INFO : topic #0: 0.094*"nanu" + 0.074*xx" + 0.074*fun + 0.074*"hope + 0.071*father + 0.071*cut" + 0.071*close + 0.071*"love + 0.066*st + 0.066*march"\n']
+corrected tweet :  havana fast
+status :  306649207371096064
+time :  2013-02-27 06:17:22
+No of retweets :  6
+No of favorites :  5
+tweet+reply corpus: 
+"camera hand sameer arya haha","bwahahaha people","havana fast","term balloon memujh rein had","hey bare bad good luck boardswould lot","pp di state come swim today make nation love left bigggg huge","wait day quorum take did rete jacquot","que love rock star pcmaniacs equal","mind left office prepare examsplzzzz luck","arghh bare reply","best luck dearperfirm or best adam","thank","best","youcongrat","thank","thank",
+No of replies :  17
+last reply time :  0
+proper nouns :  Set([u'love', u'sameer', u'haha', u'arghh', u'rock', u'pcmaniacs', u'reply', u'arya', u'bigggg'])
+LSI topic:
+['2013-03-01 14:33:08,588 : INFO : topic #0(1.732): 1.000*""thank"" + 0.000*""bwahahaha" + 0.000*"people"" + -0.000*""mind" + -0.000*"luck"" + -0.000*"examsplzzzz" + -0.000*"office" + -0.000*"prepare" + -0.000*"fast"" + -0.000*"best"\n']
+LDA topic:
+['2013-03-01 14:33:08,605 : INFO : topic #0: 0.048*"thank" + 0.024*"youcongrat" + 0.024*"best" + 0.021*bare + 0.020*fast" + 0.020*"havana + 0.020*people" + 0.020*"bwahahaha + 0.020*luck + 0.019*"arghh\n']
+corrected tweet :  rug love arm than aryacam
+status :  306648928282091520
+time :  2013-02-27 06:16:16
+No of retweets :  50
+No of favorites :  59
+tweet+reply corpus: 
+"rug love arm than aryacam",
+No of replies :  1
+last reply time :  0
+proper nouns :  Set([])
+LSI topic:
+['2013-03-01 14:33:16,000 : INFO : topic #0(1.000): -0.500*"love" + -0.500*"aryacam"" + -0.500*"arm" + -0.500*""rug"\n']
+LDA topic:
+['2013-03-01 14:33:18,315 : INFO : topic #0: 0.250*love + 0.250*aryacam" + 0.250*arm + 0.250*"rug\n']
+corrected tweet :  introduce sanjay gupta jr hey sivansh
+status :  306646874864099328
+time :  2013-02-27 06:08:06
+No of retweets :  60
+No of favorites :  62
+tweet+reply corpus: 
+"introduce sanjay gupta jr hey sivansh","love priyankachopra introducing sanjay gupta jr hey sivansh",
+No of replies :  2
+last reply time :  0
+proper nouns :  Set([u'gupta', u'introducing', u'sanjay', u'hey', u'sivansh'])
+LSI topic:
+['2013-03-01 14:33:27,847 : INFO : topic #0(1.129): 0.483*""introduce" + 0.327*"priyankachopra" + 0.327*"introducing" + 0.327*""love" + 0.299*"sivansh"" + 0.299*"sanjay" + 0.299*"jr" + 0.299*"hey" + 0.299*"gupta"\n']
+LDA topic:
+['2013-03-01 14:33:27,866 : INFO : topic #0: 0.129*"introduce + 0.111*priyankachopra + 0.111*introducing + 0.111*"love + 0.108*sanjay + 0.108*sivansh" + 0.108*jr + 0.108*hey + 0.108*gupta\n']
+corrected tweet :  babli feel badmaash day hurry hurry ahead
+status :  306645792247140352
+time :  2013-02-27 06:03:48
+No of retweets :  79
+No of favorites :  87
+tweet+reply corpus: 
+"babli feel badmaash day hurry hurry ahead","excited watch song bring fast","hot pink love priyankachopra babli feel badmaash day hurry hurry ahead",
+No of replies :  3
+last reply time :  0
+proper nouns :  Set([u'bring', u'hurry', u'love', u'excited', u'babli'])
+LSI topic:
+['2013-03-01 14:33:39,337 : INFO : topic #0(1.199): 0.564*"hurry" + 0.341*""babli" + 0.282*"feel" + 0.282*"badmaash" + 0.282*"ahead"" + 0.282*"day" + 0.223*"priyankachopra" + 0.223*"pink" + 0.223*"love" + 0.223*""hot"\n']
+LDA topic:
+['2013-03-01 14:33:39,378 : INFO : topic #0: 0.083*hurry + 0.067*"babli + 0.063*feel + 0.063*day + 0.063*badmaash + 0.063*ahead" + 0.061*watch + 0.061*song + 0.061*fast" + 0.061*bring\n']
+corrected tweet :  pune tire long day exit good cause eyedon
+status :  305622972897579008
+time :  2013-02-24 10:19:29
+No of retweets :  173
+No of favorites :  163
+tweet+reply corpus: 
+"pune tire long day exit good cause eyedon","happy day yesterday lot sweet","send lot energy","wait day yesterday chance day","good cassock good things","hope donate eye eyedonation","happy day yesterday turn feel","bend load energy happyur great human help neededtakecare pc","road eye best","send lot energy pc love a lot","pune take company am walk sudden blue walk fast","know peace di cut","hey hat","goodnight peace sleep well","pledge","best","love or hair style",
+No of replies :  19
+last reply time :  0
+proper nouns :  Set([u'pune', u'good', u'happyur', u'things', u'energy', u'peace', u'well', u'pc', u'goodnight', u'neededtakecare', u'sleep', u'hope', u'eyedonation'])
+LSI topic:
+['2013-03-01 14:33:54,409 : INFO : topic #0(1.282): 0.425*"yesterday" + 0.404*""happy" + 0.386*"day" + 0.345*"lot" + 0.299*"sweet"" + 0.233*"turn" + 0.233*"feel"" + 0.196*""send" + 0.163*"energy"" + 0.155*"day""\n']
+LDA topic:
+['2013-03-01 14:33:54,428 : INFO : topic #0: 0.023*lot + 0.023*day + 0.022*yesterday + 0.022*"best" + 0.022*"pledge" + 0.021*"send + 0.021*"happy + 0.021*eye + 0.020*peace + 0.019*good\n']
+corrected tweet :  indur uncle glad rest
+status :  305619141996462080
+time :  2013-02-24 10:04:16
+No of retweets :  72
+No of favorites :  75
+tweet+reply corpus: 
+"indur uncle glad rest","see see reply or reply","hey play mon mary kom topic mon knowpleas reply","reply day reply","salman than marry pakistani girl","reply","akin make in do chance collar","reply see see time mention","wait reply desert","priyankachopra indur uncle glad rest","reply jhilmil","feel moment wen reply least","yesterday day atleast beat","glad come pune today eye donate camp naitradan","of fanclubs biggggg huge thought make or fcs rockstarfcs","old","love bare reply reply lie","jealous freak","haven","reply wait",
+No of replies :  20
+last reply time :  0
+proper nouns :  Set([u'pune', u'indur', u'kom', u'rockstarfcs', u'salman', u'fcs', u'uncle', u'atleast', u'fanclubs', u'wait', u'pakistani', u'mary', u'glad', u'naitradan'])
+LSI topic:
+['2013-03-01 14:34:08,279 : INFO : topic #0(1.306): -0.595*""reply" + -0.396*"reply"" + -0.371*"day" + -0.267*"jhilmil"" + -0.267*"wait"" + -0.229*"reply" + -0.198*""see" + -0.169*"time" + -0.169*"mention"" + -0.091*"atleast"\n']
+LDA topic:
+['2013-03-01 14:34:08,304 : INFO : topic #0: 0.029*"reply + 0.027*reply + 0.023*reply" + 0.022*day + 0.021*"old" + 0.021*"reply" + 0.021*"haven" + 0.020*jhilmil" + 0.020*wait" + 0.019*uncle\n']
+corrected tweet :  test mary kom hows on
+status :  305572059164057600
+time :  2013-02-24 06:57:10
+No of retweets :  99
+No of favorites :  114
+tweet+reply corpus: 
+"test mary kom hows on","today pint marriage annivrsryplzz the","great best luck of","karry mary godpseed baby goodluck","peeceeuu love love love whn ll or rockstar wait","peeceeuu have sista wil sista loovee sisooo mwwaah","peace reply ur cho sweet mwah","manna go kill everyone film yoohooo","go awesome pc loads luck priyankachopra test mary kom hows on","happy anniv uncle aunty stay blessed tons love respect","worry pp or on kill best muah","canal email or pick sarah than we stand chance consider","lot it","pc gradual parent best wish year","it it it","the clot babegod bless clot love","awwwyu sweetthnx clot god bless well up it srk it given you bear huuug","pleasure baabuu anna part pe mute invite in kari","are babykoi part in haiagar part how balaga were bind part ho in sat","oh oh shubho bibaho barshiki uncle am auntyyyylt",
+No of replies :  20
+last reply time :  0
+proper nouns :  Set([u'love', u'rockstar', u'muah', u'awesome', u'wil', u'blessed', u'loovee', u'tons', u'respect', u'sisooo', u'shubho', u'kom', u'yoohooo', u'huuug', u'aunty', u'cho', u'pc', u'sista', u'best', u'mary', u'mwah', u'godpseed', u'goodluck', u'whn', u'bibaho', u'stay', u'uncle', u'barshiki', u'baabuu', u'hows', u'anniv', u'srk', u'auntyyyylt', u'ur', u'karry', u'loads', u'happy', u'luck'])
+LSI topic:
+['2013-03-01 14:34:25,851 : INFO : topic #0(1.211): 0.378*"kom" + 0.378*"hows" + 0.378*"on"" + 0.375*"mary" + 0.302*""test" + 0.222*"luck" + 0.187*""go" + 0.187*"loads" + 0.187*"pc" + 0.187*"test"\n']
+LDA topic:
+['2013-03-01 14:34:25,880 : INFO : topic #0: 0.015*it" + 0.014*best + 0.014*love + 0.013*clot + 0.013*mary + 0.013*kill + 0.012*"it + 0.012*"lot + 0.012*luck + 0.012*on"\n']
+corrected tweet :  havana madam hope well
+status :  305379234124271616
+time :  2013-02-23 18:10:57
+No of retweets :  15
+No of favorites :  7
+tweet+reply corpus: 
+"heart broke didn win filmfare barfianurag ranbir include moment special","havana madam hope well",
+No of replies :  2
+last reply time :  0
+proper nouns :  Set([u'barfianurag', u'ranbir', u'hope', u'filmfare'])
+LSI topic:
+['2013-03-01 14:34:31,010 : INFO : topic #0(1.000): -0.472*"well"" + -0.472*"madam" + -0.472*"hope" + -0.472*""havana" + 0.104*""heart" + 0.104*"broke" + 0.104*"didn" + 0.104*"moment" + 0.104*"win" + 0.104*"special""\n']
+LDA topic:
+['2013-03-01 14:34:31,019 : INFO : topic #0: 0.078*well" + 0.078*madam + 0.078*hope + 0.078*"havana + 0.069*win + 0.069*special" + 0.069*ranbir + 0.069*moment + 0.069*include + 0.069*filmfare\n']
+corrected tweet :  
+status :  305218718521253890
+time :  2013-02-23 07:33:07
+No of retweets :  74
+No of favorites :  85
+tweet+reply corpus: 
+"of priyankachopra","feel god hear quit cityquot english radio everytim hear feel love song rockstar","hey how re remember watch deeper pp oh morningfor second time","pp worst fear forget mesodo remember album wait","heard may remain song was soundcloudbut count download track","great great shoot peecee","hey paru help pp day","key geese crazy mania friend sanias birthday today hope day","key sania wishing happy birthday hope pc wish","part love a hope pp wish","tune",
+No of replies :  15
+last reply time :  0
+proper nouns :  Set([u'love', u'peecee', u'song', u'rockstar', u'wishing', u'pc', u'paru', u'sania', u'cityquot', u'hope', u'sanias'])
+LSI topic:
+['2013-03-01 14:34:44,623 : INFO : topic #0(1.164): 0.380*"hope" + 0.377*"wish"" + 0.301*""part" + 0.274*""key" + 0.274*"birthday" + 0.240*"love" + 0.222*"happy" + 0.222*"pc" + 0.222*"sania" + 0.222*"wishing"\n']
+LDA topic:
+['2013-03-01 14:34:44,639 : INFO : topic #0: 0.024*"tune" + 0.022*hope + 0.021*wish" + 0.021*priyankachopra" + 0.021*"of + 0.021*"hey + 0.020*day" + 0.020*love + 0.020*"part + 0.019*paru\n']
+corrected tweet :  disease pledge ntds
+status :  305215396783476736
+time :  2013-02-23 07:19:55
+No of retweets :  91
+No of favorites :  85
+tweet+reply corpus: 
+"quoti disease quit pledge ntds",
+No of replies :  1
+last reply time :  0
+proper nouns :  Set([u'quoti', u'ntds'])
+LSI topic:
+['2013-03-01 14:34:49,617 : INFO : topic #0(1.000): 0.447*"quit" + 0.447*"pledge" + 0.447*"ntds"" + 0.447*"disease" + 0.447*""quoti"\n']
+LDA topic:
+['2013-03-01 14:34:49,624 : INFO : topic #0: 0.200*quit + 0.200*pledge + 0.200*ntds" + 0.200*disease + 0.200*"quoti\n']
+corrected tweet :  
+status :  305159574439227392
+time :  2013-02-23 03:38:06
+No of retweets :  9
+No of favorites :  13
+tweet+reply corpus: 
+"quick ready","favourite male actor","omg follow go heart attack","srk","china","srk tooooooo loyal it","mimi dark loyal","yeah maggi smile","men may men rabbit","far hero",
+No of replies :  12
+last reply time :  0
+proper nouns :  Set([u'quick', u'srk', u'omg', u'maggi', u'mimi'])
+LSI topic:
+['2013-03-01 14:35:00,334 : INFO : topic #0(1.000): 0.433*""favourite" + 0.433*"actor"" + 0.433*"male" + -0.252*"it"" + -0.252*"tooooooo" + -0.252*""srk" + -0.252*"loyal" + 0.199*""far" + 0.199*"hero"" + 0.126*"rabbit""\n']
+LDA topic:
+['2013-03-01 14:35:00,348 : INFO : topic #0: 0.048*"srk" + 0.048*"china" + 0.041*hero" + 0.041*"far + 0.041*ready" + 0.041*"quick + 0.038*maggi + 0.038*"men + 0.038*rabbit" + 0.038*"favourite\n']
+corrected tweet :  
+status :  305159472530210819
+time :  2013-02-23 03:37:42
+No of retweets :  4
+No of favorites :  4
+tweet+reply corpus: 
+"reply","ll huge pit clot","direct priyanka love",
+No of replies :  4
+last reply time :  0
+proper nouns :  Set([u'love'])
+LSI topic:
+['2013-03-01 14:35:07,551 : INFO : topic #0(1.000): 0.577*"priyanka" + 0.577*"love"" + 0.577*""direct" + 0.005*"clot"" + 0.005*"pit" + 0.005*"huge" + 0.005*""ll" + -0.000*""reply""\n']
+LDA topic:
+['2013-03-01 14:35:07,562 : INFO : topic #0: 0.157*"reply" + 0.124*priyanka + 0.124*love" + 0.124*"direct + 0.118*pit + 0.118*huge + 0.118*clot" + 0.118*"ll\n']
+corrected tweet :  
+status :  305159363528634368
+time :  2013-02-23 03:37:16
+No of retweets :  9
+No of favorites :  10
+tweet+reply corpus: 
+"miracle","luck boy","convoy year","achchai mud is dream had mary answoww long","org congratzz karthik","congratul","dramebaaz","is","yaaay mon","yaay","dint reply","yeah how gay miracle and gash partyyyyyyyyyp","such mine special date not to reply month anniversary","onecongrat year","him","follow mistake","pleasure","worry bare",
+No of replies :  20
+last reply time :  0
+proper nouns :  Set([u'yaaay', u'yaay', u'partyyyyyyyyyp', u'answoww'])
+LSI topic:
+['2013-03-01 14:35:20,701 : INFO : topic #0(1.170): 0.734*"year"" + 0.480*""onecongrat" + 0.480*""convoy" + -0.000*""luck" + -0.000*"boy"" + -0.000*""dint" + -0.000*"reply"" + 0.000*""yaay"" + -0.000*"mon"" + -0.000*""yaaay"\n']
+LDA topic:
+['2013-03-01 14:35:20,769 : INFO : topic #0: 0.034*year" + 0.030*"yaay" + 0.030*"is" + 0.030*"congratul" + 0.030*"dramebaaz" + 0.030*"miracle" + 0.030*"him" + 0.030*"pleasure" + 0.027*"convoy + 0.027*"onecongrat\n']
+corrected tweet :  hey
+status :  305159300752498688
+time :  2013-02-23 03:37:01
+No of retweets :  3
+No of favorites :  5
+tweet+reply corpus: 
+"hola smile day","hey","pp di love wud love reply or rockstar xoxo","power india power read mindsplz reply","hair wont reply",
+No of replies :  5
+last reply time :  0
+proper nouns :  Set([u'reply', u'love', u'xoxo', u'hola', u'wud'])
+LSI topic:
+['2013-03-01 14:35:27,891 : INFO : topic #0(1.051): 0.445*"reply"" + 0.436*"wont" + 0.436*""hair" + 0.290*"power" + 0.290*"mindsplz" + 0.290*"india" + 0.290*""power" + 0.290*"read" + 0.000*"love" + -0.000*""hey""\n']
+LDA topic:
+['2013-03-01 14:35:27,956 : INFO : topic #0: 0.070*"hey" + 0.059*reply" + 0.058*wont + 0.058*"hair + 0.058*love + 0.056*day" + 0.056*smile + 0.056*"hola + 0.050*"power + 0.050*india\n']
+corrected tweet :  faith
+status :  305159148104994816
+time :  2013-02-23 03:36:25
+No of retweets :  6
+No of favorites :  8
+tweet+reply corpus: 
+"love","faith","score grade","on marry","hey india","now di reply same good job",
+No of replies :  6
+last reply time :  0
+proper nouns :  Set([u'love'])
+LSI topic:
+['2013-03-01 14:35:33,838 : INFO : topic #0(1.000): 0.707*""love"" + -0.292*"job"" + -0.292*"good" + -0.292*"reply" + -0.292*"di" + -0.292*""now" + 0.160*""faith"" + -0.148*"india"" + -0.148*""hey" + 0.039*"grade""\n']
+LDA topic:
+['2013-03-01 14:35:33,913 : INFO : topic #0: 0.093*"faith" + 0.093*"love" + 0.079*india" + 0.079*"hey + 0.079*marry" + 0.079*"on + 0.079*grade" + 0.079*"score + 0.067*reply + 0.067*job"\n']
+corrected tweet :  love honey singh talent
+status :  305158779194994689
+time :  2013-02-23 03:34:57
+No of retweets :  24
+No of favorites :  16
+tweet+reply corpus: 
+"love honey singh talent","or far singer","wait peeceelici year irish sunday mary or album love it","reply fr","latest askingwil valentin","yesyesyess","prima more or dream role actor profess wide chosen","move salmon that","ear ri","big fan honeysingh express youth attitude awsome","long","much talk dat sung song it cut take lipssad youth choice anus women women like",
+No of replies :  12
+last reply time :  0
+proper nouns :  Set([u'honey', u'singh', u'love', u'awsome', u'honeysingh'])
+LSI topic:
+['2013-03-01 14:35:51,787 : INFO : topic #0(1.027): -0.361*"women" + -0.328*"youth" + -0.269*""big" + -0.269*"awsome"" + -0.269*"express" + -0.269*"fan" + -0.269*"honeysingh" + -0.269*"attitude" + -0.181*"anus" + -0.181*"sung"\n']
+LDA topic:
+['2013-03-01 14:35:51,823 : INFO : topic #0: 0.027*"yesyesyess" + 0.027*"long" + 0.023*"ear + 0.023*"or + 0.023*singer" + 0.023*"reply + 0.023*fr" + 0.023*ri" + 0.021*valentin" + 0.021*that"\n']
+corrected tweet :  april
+status :  305158168890204160
+time :  2013-02-23 03:32:31
+No of retweets :  8
+No of favorites :  8
+tweet+reply corpus: 
+"quick ready","come","april","time",
+No of replies :  5
+last reply time :  0
+proper nouns :  Set([u'quick'])
+LSI topic:
+['2013-03-01 14:36:01,747 : INFO : topic #0(1.000): 0.680*""quick" + 0.680*"ready"" + -0.225*""april"" + -0.138*""time"" + 0.082*""come""\n']
+LDA topic:
+['2013-03-01 14:36:01,756 : INFO : topic #0: 0.212*"time" + 0.212*"april" + 0.212*"come" + 0.181*ready" + 0.181*"quick\n']
+corrected tweet :  single summer album
+status :  305158057028091905
+time :  2013-02-23 03:32:05
+No of retweets :  15
+No of favorites :  11
+tweet+reply corpus: 
+"quick ready","when album come","single summer album","or kolkata schedule a ll","single summer album","long",
+No of replies :  6
+last reply time :  0
+proper nouns :  Set([u'quick'])
+LSI topic:
+['2013-03-01 14:36:12,016 : INFO : topic #0(1.414): -0.577*"summer" + -0.577*"album"" + -0.577*""single" + 0.000*""long"" + 0.000*""when" + 0.000*"come"" + 0.000*"album" + -0.000*""quick" + -0.000*"ready"" + 0.000*"kolkata"\n']
+LDA topic:
+['2013-03-01 14:36:12,072 : INFO : topic #0: 0.095*summer + 0.095*album" + 0.095*"single + 0.088*"long" + 0.076*ready" + 0.076*"quick + 0.070*come" + 0.070*album + 0.070*"when + 0.066*schedule\n']
+corrected tweet :  up
+status :  305157962530435073
+time :  2013-02-23 03:31:42
+No of retweets :  9
+No of favorites :  9
+tweet+reply corpus: 
+"quick ready","shoe size hahabet ask the","up","ahahah gr que number pp","yay awesom mine tooooo meet awesom pair shoe it","ohio gr gr number gas mine","helen yeah size cut","here","laugh guyssmin local s covers size slipper","lolfelt random","www cut it","www great","hahahahahahahsometim actual depend comforthahahh","oh small dat in fit feet shoe us ahahah","girl hooooo helen","here genius","haharllybt no thing three sting wrngill he rich s export ch in s","omgooooood mine toooooooo","yeah girl","who",
+No of replies :  20
+last reply time :  0
+proper nouns :  Set([u'quick', u'wrngill', u'hahabet', u'yay'])
+LSI topic:
+['2013-03-01 14:36:48,041 : INFO : topic #0(1.187): -0.634*"gr" + -0.446*"number" + -0.333*"pp"" + -0.333*""ahahah" + -0.244*"gas" + -0.244*""ohio" + -0.244*"mine"" + -0.000*""www" + -0.000*"awesom" + -0.000*"it""\n']
+LDA topic:
+['2013-03-01 14:36:48,386 : INFO : topic #0: 0.021*"www + 0.021*gr + 0.020*"who" + 0.020*"up" + 0.020*"here" + 0.020*size + 0.018*great" + 0.018*it" + 0.018*number + 0.017*mine\n']
+corrected tweet :  
+status :  305157907572473857
+time :  2013-02-23 03:31:29
+No of retweets :  6
+No of favorites :  7
+tweet+reply corpus: 
+"quick ready","don confirm",
+No of replies :  4
+last reply time :  0
+proper nouns :  Set([u'quick'])
+LSI topic:
+['2013-03-01 14:36:56,738 : INFO : topic #0(1.000): -0.626*"confirm"" + -0.626*""don" + 0.330*""quick" + 0.330*"ready""\n']
+LDA topic:
+['2013-03-01 14:36:56,851 : INFO : topic #0: 0.250*confirm" + 0.250*"don + 0.250*ready" + 0.250*"quick\n']
+corrected tweet :  t film cant choose
+status :  305157845224144896
+time :  2013-02-23 03:31:14
+No of retweets :  5
+No of favorites :  8
+tweet+reply corpus: 
+"quick ready","of gunday zanjeer","t film cant choose","starbuck drunken done","yeah can choose of or fcs biggggg huge loads love of it","power india power read mind","t film cant choose","can choose awesom priyankachopra t film cant choose","read eye donate news true of donate thy eyes unjustice","dear a tune same quota take had jacquot nasi delhi or far actor he dint watch film","long gun",
+No of replies :  11
+last reply time :  0
+proper nouns :  Set([u'unjustice', u'eyes', u'fcs', u'thy', u'yeah', u'cant', u'zanjeer', u'quick', u'loads', u'donate', u'gunday'])
+LSI topic:
+['2013-03-01 14:37:19,749 : INFO : topic #0(1.491): 0.522*""t" + 0.473*"film" + 0.473*"choose"" + 0.473*"cant" + 0.125*"priyankachopra" + 0.125*""can" + 0.125*"awesom" + 0.095*"choose" + 0.007*"biggggg" + 0.007*""yeah"\n']
+LDA topic:
+['2013-03-01 14:37:19,897 : INFO : topic #0: 0.031*"t + 0.031*film + 0.031*cant + 0.031*choose" + 0.024*gun" + 0.024*"long + 0.024*ready" + 0.024*"quick + 0.022*choose + 0.022*donate\n']
+corrected tweet :  quick ready
+status :  305157086751363072
+time :  2013-02-23 03:28:13
+No of retweets :  58
+No of favorites :  90
+tweet+reply corpus: 
+"quick ready","smartphon choice","of gunday zanjeer","don confirm","bring","readi","pc love or move release","key peace day have board east day examday end am god luck","shoe size hahabet ask the","when album come","favourite male actor","or daddy","come","t film cant choose","move","long time pc or rockstarit humble request from side or heartyumltildeoelig","up","single summer album","release",
+No of replies :  20
+last reply time :  0
+proper nouns :  Set([u'cant', u'pc', u'hahabet', u'zanjeer', u'quick', u'heartyumltildeoelig', u'gunday'])
+LSI topic:
+['2013-03-01 14:37:37,900 : INFO : topic #0(1.000): -0.677*""readi"" + -0.336*""up"" + -0.190*""or" + -0.190*"daddy"" + -0.177*"come"" + -0.177*""when" + -0.177*"album" + 0.156*""smartphon" + 0.156*"choice"" + 0.145*""single"\n']
+LDA topic:
+['2013-03-01 14:37:38,010 : INFO : topic #0: 0.024*"release" + 0.024*"move" + 0.024*"up" + 0.024*"bring" + 0.024*"readi" + 0.024*"come" + 0.020*ready" + 0.020*"smartphon + 0.020*choice" + 0.020*"don\n']
+corrected tweet :  macchi market hungry kya
+status :  304819604000219136
+time :  2013-02-22 05:07:11
+No of retweets :  84
+No of favorites :  97
+tweet+reply corpus: 
+"macchi market hungry kya","shot tips wont eye s","nooooooo","hullo pp reply or highest fan wait or reply","shoot ranvier today","not hungry least fisheseewwi hate","part",
+No of replies :  7
+last reply time :  0
+proper nouns :  Set([u'kya', u'hungry', u'macchi'])
+LSI topic:
+['2013-03-01 14:37:50,077 : INFO : topic #0(1.063): 0.478*"hungry" + 0.359*"market" + 0.359*""macchi" + 0.359*"kya"" + 0.359*""not" + 0.359*"hate"" + 0.359*"fisheseewwi" + -0.000*""part"" + 0.000*""nooooooo"" + 0.000*"ranvier"\n']
+LDA topic:
+['2013-03-01 14:37:50,092 : INFO : topic #0: 0.057*"part" + 0.057*"nooooooo" + 0.049*hungry + 0.045*today" + 0.045*ranvier + 0.045*"shoot + 0.044*hate" + 0.044*kya" + 0.044*market + 0.044*"macchi\n']
+corrected tweet :  worry can control time change thing control
+status :  304753753666490369
+time :  2013-02-22 00:45:31
+No of retweets :  827
+No of favorites :  419
+tweet+reply corpus: 
+"worry can controlyou time change thing control","god more pp","are years reply ku hi met ab and march key made cheap of mary the mary","due jug god more","hata ridden debut was deewana doesn reply year","hum risk divine home had to reply nail date duggu nail data penn nail met","hadn our to log fan home hi hi had undo hi chance mild data hair hum as dan a time cab aayega a path","safi at had nail within ne time reply king had mute our danish paul ne bar","are hand time reply wide smile dat","yes","oh ab to share actor reply mild jaayeg penn our dugout fr pp dug cab mileage bhagwan jane","reply from bacchan i din se une perch papa he","wo din bald area","havana god luck","oh hi nasi rare reply","wo great had apni mary se dense","hadn senior bacchan angryyoungman mujhpar russia russia ho gave to","nail nail did a had angryyoungman","haanpar reply done me actor bad kanjoosi kate had","attitude",
+No of replies :  20
+last reply time :  0
+proper nouns :  Set([u'apni', u'duggu', u'senior', u'angryyoungman', u'bacchan'])
+LSI topic:
+['2013-03-01 14:38:19,367 : INFO : topic #0(1.170): 0.535*"nail" + 0.263*"angryyoungman"" + 0.263*""nail" + 0.207*"ne" + 0.198*"reply" + 0.176*"penn" + 0.167*"data" + 0.159*"time" + 0.157*""hum" + 0.157*"divine"\n']
+LDA topic:
+['2013-03-01 14:38:19,560 : INFO : topic #0: 0.015*nail + 0.013*"attitude" + 0.013*"yes" + 0.013*reply + 0.013*god + 0.012*time + 0.012*"wo + 0.012*din + 0.011*"god + 0.011*pp"\n']
+corrected tweet :  buck cent attend set
+status :  304753345107730433
+time :  2013-02-22 00:43:54
+No of retweets :  55
+No of favorites :  67
+tweet+reply corpus: 
+"buck cent attend set","instagram","thank","worry xx","direct","umm yess","absoluteli yesss","india live australia was","indonesia australia neighbor","cool","boy haven","day but come year can wait","hope now on watch em envy youu","ticket sold didn em on watch dd moviewell ticket imma em","move release worry someday well watch","ink at indonesia australia release september xx",
+No of replies :  16
+last reply time :  0
+proper nouns :  Set([u'envy', u'australia', u'instagram', u'imma', u'dd', u'indonesia', u'india', u'moviewell', u'september', u'umm', u'youu', u'yess', u'yesss'])
+LSI topic:
+['2013-03-01 14:38:43,569 : INFO : topic #0(1.145): -0.444*"xx"" + -0.414*"australia" + -0.316*""worry" + -0.272*"release" + -0.271*"september" + -0.271*""ink" + -0.271*"indonesia" + -0.227*""indonesia" + -0.227*"neighbor"" + -0.177*""india"\n']
+LDA topic:
+['2013-03-01 14:38:43,769 : INFO : topic #0: 0.027*australia + 0.027*"instagram" + 0.027*"thank" + 0.027*"cool" + 0.027*"direct" + 0.026*xx" + 0.024*"worry + 0.023*"absoluteli + 0.023*yess" + 0.023*haven"\n']
+corrected tweet :  may darshan early more siddhivinayak temple feet hurt walk feel bless care gn
+status :  303674057965072384
+time :  2013-02-19 01:15:12
+No of retweets :  169
+No of favorites :  190
+tweet+reply corpus: 
+"may darshan early more siddhivinayak temple feet hurt walk feel bless care gn","help reach target up delhi charity himalaya tree community project httpwwwjustgivingcomneeshamichellenbsp","uk oct short trip hope return charity work month","not target of at","fundrais local charity cancer multiplesclerosi motorneuronediseas","rays local charity himalaya tree project work delhi","uk charity","allah succeed charity work","up charityi love up love indiadont angry","crazy delhi or lover","good bless am good health am family of takecar it load love","best nice fc peecee desert support follow","wonder appreciate it","rich target","shame time help community india selfish outlook","rays charity","city siddhivinayak temple harm",
+No of replies :  19
+last reply time :  0
+proper nouns :  Set([u'multiplesclerosis', u'india', u'allah', u'cancer', u'darshan', u'charityi', u'delhi', u'peecee', u'feet', u'fc', u'motorneuronedisease', u'uk', u'gn', u'appreciate', u'httpwwwjustgivingcomneeshamichellenbsp', u'oct', u'charity'])
+LSI topic:
+['2013-03-01 14:39:34,455 : INFO : topic #0(1.288): 0.586*"charity"" + 0.436*""rays" + 0.337*""uk" + 0.198*"project" + 0.198*"tree" + 0.198*"himalaya" + 0.190*"charity" + 0.188*"work" + 0.170*"local" + 0.169*"delhi""\n']
+LDA topic:
+['2013-03-01 14:39:34,508 : INFO : topic #0: 0.021*charity" + 0.018*"rays + 0.017*charity + 0.017*"uk + 0.015*delhi + 0.015*target + 0.015*target" + 0.015*"rich + 0.015*love + 0.015*local\n']
+corrected tweet :  happy anniversary beauty mon inured dad dr ashok chopra morethank
+status :  303379548945412097
+time :  2013-02-18 05:44:55
+No of retweets :  261
+No of favorites :  294
+tweet+reply corpus: 
+"happy anniversary beauty mon inured dad dr ashok chopra morethank","talk weren drunk just or usual org burgher junk","happy we anniversary may couple gift peace wishing health am happy","happy aniversary or parent perfect scientific webster deal count","happy anniversary may parent glad ashok sir day","special anniversary bless it pictwittercommafwfn","happy anniversary or mon am dad god bless trade","happy anniversary uncle aunty","bonne annivesaire uncle aunty thk supper parent angel","ready interview wait car wait or angel online pus","parent anniversary","happy anniversary or org mon or dearest dad dr ashok chopra god bless","happy anniversary mon dad lots love happy","heavy angel today","load discuss mrpatel","aawwww hhhhnnnn but under ha dark damn hot grm or hard work tc hot","pus visit canada cold hottti warm","www cheeks story compliment ha nap spy am watch punjabi","good more peace great day","alrighthav catch is weekendy watch punjabi move",
+No of replies :  20
+last reply time :  0
+proper nouns :  Set([u'dad', u'angel', u'lots', u'god', u'aunty', u'wishing', u'anniversary', u'chopra', u'bonne', u'uncle', u'mrpatel', u'ready', u'thk', u'ashok', u'dr', u'tc', u'annivesaire', u'happy'])
+LSI topic:
+['2013-03-01 14:40:18,746 : INFO : topic #0(1.401): 0.344*"mon" + 0.344*"dad" + 0.303*"anniversary" + 0.285*""happy" + 0.266*"god" + 0.247*"ashok" + 0.227*"dr" + 0.227*"chopra" + 0.207*"bless" + 0.191*"trade""\n']
+LDA topic:
+['2013-03-01 14:40:18,935 : INFO : topic #0: 0.016*anniversary + 0.016*"happy + 0.014*dad + 0.014*mon + 0.013*bless + 0.013*ashok + 0.013*uncle + 0.013*day" + 0.013*parent + 0.012*god\n']
+corrected tweet :  love
+status :  302332942259200000
+time :  2013-02-15 08:26:05
+No of retweets :  11
+No of favorites :  10
+tweet+reply corpus: 
+"reduce nothingwhen left inside fight","love","iii priyanka god bless uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu","love ultd","pehli baar mohabbat ki hai akhir baar mohabbat ki hailt","toomuah","meteorite crashes russia panic spreads updating videos scar","hey pcdi extreme worry at hamper dad dats drive crazy fine reply","exact peri all okayi are strong person love he a it",
+No of replies :  9
+last reply time :  0
+proper nouns :  Set([u'dad', u'hai', u'baar', u'love', u'crashes', u'videos', u'ultd', u'panic', u'mohabbat', u'spreads', u'okayi', u'dats', u'fight', u'meteorite', u'pehli', u'russia', u'pcdi', u'hailt', u'akhir', u'ki', u'updating'])
+LSI topic:
+['2013-03-01 14:40:57,424 : INFO : topic #0(1.000): 0.775*""love"" + -0.291*""love" + -0.291*"ultd"" + 0.171*""toomuah"" + 0.117*"okayi" + 0.117*"love" + 0.117*"it"" + 0.117*"person" + 0.117*"strong" + 0.117*"peri"\n']
+LDA topic:
+['2013-03-01 14:40:57,480 : INFO : topic #0: 0.030*"toomuah" + 0.030*"love" + 0.026*ultd" + 0.026*"love + 0.023*mohabbat + 0.023*ki + 0.023*baar + 0.022*priyanka + 0.022*uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu" + 0.022*"reduce\n']
+corrected tweet :  happy valentin felt love feel
+status :  301794387296415745
+time :  2013-02-13 20:46:03
+No of retweets :  653
+No of favorites :  533
+tweet+reply corpus: 
+"happy valentin felt love feel","thankyou leave","wish best find true love pretty find it","it plez priyanka tomorrow surprise pcmaniacs big surprise","love happiness remain or life spreading love","of pictwittercompneiok","happy valentin","key final hell yes happy valentin day blast loved sweet behappyalways","love won todaymuaahhh","happy valentiens dayu day love wonmuaaah","happy valentines day valentine am pcmaniacs day fill love pictwittercomfbxtgrd","happy valentines day love bday today bless wish pc love","happpppppppyyyyyyy birthday mrindia happy returns day stay blessed live long huge","omg birthday wishing happy birthday day fill part love great","happy valentin day sweetheart nice taylor am for","happiest day dr friday god bless we success god wealth hope pp wish","of or awesome pcmaniac happy birthday day extra special","happy day submit great year ahead hope pc","happy birthday brow great year ahead full happy","twinkle star loads love",
+No of replies :  20
+last reply time :  0
+proper nouns :  Set([u'dayu', u'love', u'valentiens', u'spreading', u'wishing', u'blessed', u'valentine', u'hell', u'todaymuaahhh', u'happiness', u'twinkle', u'returns', u'long', u'mrindia', u'pc', u'live', u'won', u'behappyalways', u'awesome', u'pcmaniac', u'happy', u'omg', u'bday', u'big', u'happpppppppyyyyyyy', u'plez', u'stay', u'birthday', u'pictwittercompneiok', u'pcmaniacs', u'happiest', u'day', u'loved', u'priyanka', u'valentines', u'pictwittercomfbxtgrd', u'hope'])
+LSI topic:
+['2013-03-01 14:41:20,367 : INFO : topic #0(1.282): 0.295*""happy" + 0.279*"birthday" + 0.259*"love" + 0.254*"day" + 0.210*"fill" + 0.199*"great" + 0.199*"ahead" + 0.199*"year" + 0.196*"valentines" + 0.168*"happy"\n']
+LDA topic:
+['2013-03-01 14:41:20,431 : INFO : topic #0: 0.018*"happy + 0.016*love + 0.016*day + 0.016*birthday + 0.014*valentin" + 0.014*"of + 0.014*valentin + 0.014*love" + 0.014*happy + 0.013*"love\n']
+corrected tweet :  
+status :  298150821122691072
+time :  2013-02-03 19:27:49
+No of retweets :  2
+No of favorites :  8
+tweet+reply corpus: 
+"wonder real people twitter","gee you object joke helen twitter favorite much bag offend the",
+No of replies :  3
+last reply time :  0
+proper nouns :  Set([])
+LSI topic:
+['2013-03-01 14:41:29,254 : INFO : topic #0(1.000): 0.450*""wonder" + 0.450*"twitter"" + 0.450*"real" + 0.450*"people" + -0.146*"the"" + -0.146*"offend" + -0.146*"object" + -0.146*"helen" + -0.146*"bag" + -0.146*""gee"\n']
+LDA topic:
+['2013-03-01 14:41:29,280 : INFO : topic #0: 0.083*twitter" + 0.083*real + 0.083*people + 0.083*"wonder + 0.074*twitter + 0.074*the" + 0.074*offend + 0.074*object + 0.074*joke + 0.074*helen\n']
