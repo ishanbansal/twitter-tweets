@@ -159,16 +159,17 @@ class tweetdesription
 		self.favorite_count=0
 		self.retweet_count=0
 		self.topic[5]=[]
-		
-	def add(self,id_str,title_tweet,createdtime,favorite_count,retweet_count,topic[5]):
-		self.id_str=""
-		self.title_tweet=""
-		self.createdtime=""
-		self.favorite_count=0
-		self.retweet_count=0
-		self.topic[5]=[]
-		
-		
+		self.reply_count=0
+		self.last_reply_time=""
+	def add(self,id_str,title_tweet,createdtime,favorite_count,retweet_count,topic[5],reply_count,last_reply_time):
+		self.id_str=id_str
+		self.title_tweet=title_tweet
+		self.createdtime=createdtime
+		self.favorite_count=favorite_count
+		self.retweet_count=retweet_count
+		self.topic=topic
+		self.reply_count=reply_count
+		self.last_reply_time=last_reply_time
 fout3= open('lsi','w')
 fout1=open('lda','w')
 for page in tweepy.Cursor(api.user_timeline, id = "priyankachopra", count =10, include_rts = 0).pages(2000):
