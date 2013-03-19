@@ -151,7 +151,7 @@ def get_replies(text):
 		if len(reply):
 			reply_text = reply_text+'"'+reply+'",'
 	return reply_text, reply_count, proper_nouns
-class tweetdesription
+class tweetdesription:
 	def __init__(self):
 		self.id_str=""
 		self.title_tweet=""
@@ -161,7 +161,7 @@ class tweetdesription
 		self.topic[5]=[]
 		self.reply_count=0
 		self.last_reply_time=""
-	def add(self,id_str,title_tweet,createdtime,favorite_count,retweet_count,topic[5],reply_count,last_reply_time):
+	def add(self,id_str,title_tweet,createdtime,favorite_count,retweet_count,topic,reply_count,last_reply_time):
 		self.id_str=id_str
 		self.title_tweet=title_tweet
 		self.createdtime=createdtime
