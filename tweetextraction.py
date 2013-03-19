@@ -151,7 +151,24 @@ def get_replies(text):
 		if len(reply):
 			reply_text = reply_text+'"'+reply+'",'
 	return reply_text, reply_count, proper_nouns
-
+class tweetdesription
+	def __init__(self):
+		self.id_str=""
+		self.title_tweet=""
+		self.createdtime=""
+		self.favorite_count=0
+		self.retweet_count=0
+		self.topic[5]=[]
+		
+	def add(self,id_str,title_tweet,createdtime,favorite_count,retweet_count,topic[5]):
+		self.id_str=""
+		self.title_tweet=""
+		self.createdtime=""
+		self.favorite_count=0
+		self.retweet_count=0
+		self.topic[5]=[]
+		
+		
 fout3= open('lsi','w')
 fout1=open('lda','w')
 for page in tweepy.Cursor(api.user_timeline, id = "priyankachopra", count =10, include_rts = 0).pages(2000):
