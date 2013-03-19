@@ -151,17 +151,19 @@ def get_replies(text):
 		if len(reply):
 			reply_text = reply_text+'"'+reply+'",'
 	return reply_text, reply_count, proper_nouns
-class tweetdesription:
+	
+class tweetdescription:
 	def __init__(self):
 		self.id_str=""
 		self.title_tweet=""
 		self.createdtime=""
 		self.favorite_count=0
 		self.retweet_count=0
-		self.topic[5]=[]
+		self.topic=[]
 		self.reply_count=0
-		self.last_reply_time=""
-	def add(self,id_str,title_tweet,createdtime,favorite_count,retweet_count,topic,reply_count,last_reply_time):
+		self.last_reply_time=0.0
+
+	def _add(self,id_str,title_tweet,createdtime,favorite_count,retweet_count,topic,reply_count,last_reply_time):
 		self.id_str=id_str
 		self.title_tweet=title_tweet
 		self.createdtime=createdtime
@@ -170,6 +172,10 @@ class tweetdesription:
 		self.topic=topic
 		self.reply_count=reply_count
 		self.last_reply_time=last_reply_time
+	
+	
+d=[tweetdescription()] * 10
+index=0	
 fout3= open('lsi','w')
 fout1=open('lda','w')
 for page in tweepy.Cursor(api.user_timeline, id = "priyankachopra", count =10, include_rts = 0).pages(2000):
@@ -206,11 +212,13 @@ for page in tweepy.Cursor(api.user_timeline, id = "priyankachopra", count =10, i
 			print last_reply_time   #hours between first and last reply
 			print "proper nouns : ",
 			print proper_nouns    #set of proper nouns and hash tag
-
+		topic=[]
 		fout.write(tweet_reply)
 		fout.close()
 		topicExtraction.latent_lsi(fout3)#final call to lsi function topic will be saved to lsi.txt
 		topicExtraction.latent_lda(fout1)#final call to lda function topic will be saved to lda.txt
+		d[index]._add(item.id_str,title_tweet,item.created_at,favorite_count,item.retweet_count,topic,reply_count,last_reply_time)
+		index=index+1	
 		propr=open('proper','w')
 		#print("printing proper nouns: ")
 		#for item in proper_nouns:
